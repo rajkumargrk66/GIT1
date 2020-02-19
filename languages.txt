@@ -1,0 +1,9 @@
+
+
+
+
+this is an languages file for learnigs the 
+
+c
+c++
+java
